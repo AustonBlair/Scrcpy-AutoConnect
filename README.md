@@ -2,6 +2,9 @@
 
 A Batch script to quickly connect to an Android device over Wi-Fi using ADB (Android Debug Bridge) by automatically discovering the ADB port.
 
+All credits go to: https://github.com/Genymobile/scrcpy
+Put Autoconnect.bat and scrcpyconsole.bat in the scrcpy main folder as it calls on adb.exe
+
 ## Features
 
 - **Auto Port Scanning**: Scans ports `30000-41000` on `192.168.1.244` to find the ADB port.
