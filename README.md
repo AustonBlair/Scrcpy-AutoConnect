@@ -1,7 +1,4 @@
-# Scrcpy-AutoConnect
-Scrcpy AutoConnect &amp; Find Port - Wireless Debugging Feature - Hardcode IP feature
-
-# ADB AutoConnect Tool
+# Scrcpy-AutoConnect: ADB AutoConnect Tool
 
 A Batch script to quickly connect to an Android device over Wi-Fi using ADB (Android Debug Bridge) by automatically discovering the ADB port.
 
